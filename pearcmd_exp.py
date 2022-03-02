@@ -3,7 +3,6 @@ import sys
 import requests
 
 # why 502 response????
-# example http://101.43.57.52:11414/lfi.php
 # use as exp.py ip port path command
 # example python -u ".\pearcmd_exp.py" 127.0.0.1 80 lfi.php file "ls /"
 # It's a easy exp....Just learn somthing
